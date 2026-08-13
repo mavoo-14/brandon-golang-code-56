@@ -5,7 +5,7 @@ Create a worker pool with the following behavior:
 
 There are N worker goroutines.
 
-Workers read tasks (integers) from a channel.
+Workers read tasks (integers) from a channel. (...)
 
 Each worker:
 
