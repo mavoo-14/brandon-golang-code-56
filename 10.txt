@@ -10,7 +10,7 @@ EXISTS key  // returns true/false
 
 
 Use a map[string]string internally.
-Your function should parse commands and return the output.
+Your function should parse commands and return the output. ...
 
 Test Example
 
